@@ -2,7 +2,7 @@
 
 Entregable #3 de la materia **Analítica de Datos No Estructurados / Minería Multimedia**.
 
-El objetivo es fine-tunear un modelo **BERT en español** para responder preguntas sobre el reglamento estudiantil de la UPB a partir de un dataset.
+El objetivo es hacer el fine-tunning de un modelo **BERT en español** para responder preguntas sobre el reglamento estudiantil de la UPB a partir de un dataset .json.
 
 ## Contenido
 
